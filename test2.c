@@ -3,5 +3,6 @@
 int main ()
 {
   printf("hehe\n");
+  printf("haha\n");
   return 0;
 }
