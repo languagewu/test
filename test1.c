@@ -702,3 +702,22 @@
 //	return 0;
 //}
 
+//字符串切割函数strtok的用法
+
+//#define _CRT_SECURE_NO_WARNINGS 1
+//#include <stdio.h>
+//#include <string.h>
+//int main()
+//{
+//	char* arr1 = "this-is,an.apple";
+//	char arr2[30] = { 0 };
+//	strcpy(arr2, arr1);
+//	char* str = strtok(arr2, "-,.");
+//	while (str != NULL)
+//	{
+//		printf("%s\n", str);
+//		str=strtok(NULL, "-,.");
+//	}
+//	return 0;
+//}
+
