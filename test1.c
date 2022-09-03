@@ -713,6 +713,7 @@
 //	char arr2[30] = { 0 };
 //	strcpy(arr2, arr1);
 //	char* str = strtok(arr2, "-,.");
+// 
 //	while (str != NULL)
 //	{
 //		printf("%s\n", str);
